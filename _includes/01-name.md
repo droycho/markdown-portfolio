@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#DJ Roychoudhury
+##GitHub Learning Lab Portfolio
+###Sample Projects
